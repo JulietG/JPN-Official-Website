@@ -2,8 +2,27 @@
 
 body {
   padding-top: 50px;
+  color: red;
+  font-family: 'Lato', sans-serif;
+  /*background-image: url("papertext.jpg");*/
 }
+
 .starter-template {
   padding: 40px 15px;
   text-align: center;
 }
+
+.member {text-align: center;
+padding-bottom: 30px;}
+.member a{ color: red;}
+
+h1{text-align: center;
+padding-bottom: 10px;}
+
+
+.gallery_pics {text-align: center;}
+
+.gallery_pics img{padding-top: 20px; 
+	padding-bottom: 15px;
+margin: auto;
+height: 100%;}

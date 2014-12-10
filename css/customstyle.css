@@ -1,9 +1,18 @@
 body{
 	font-family: 'Lato', sans-serif;
+	background-image: url("papertext.jpg");
 }
+
+/*.backround_colored{background-color: red;}*/
 
 .brand_nav{color: white !important;}
 
 .marketing {padding-top: 150px;}
 
 .pictures {width: 500px;}
+
+.second_half {color: red;}
+
+h1 {text-align: center;
+padding-bottom: 47px;
+padding-top: 0;}
